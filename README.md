@@ -3,7 +3,7 @@
 ## Env vars
 
 * `BOT_TOKEN` — Telegram bot token
-* `EVENT_DATETIME` — Date and time of event in the format `%d.%m.%Y %H:%M`. E.g. '08.10.2022 14:20')
+* `EVENT_DATETIME` — Date and time of event in the format `%d.%m.%Y %H:%M`. E.g. '08.10.2022 14:20'
 * `MESSAGE_PREFIX` — Prefix for telegram message that will be followed by date. E.g. 'Time until arrival: '
 * `MESSAGE_EVENT_PASSED` — Message to send in case the event has already passed. E.g. 'He already arrived'
 * `INLINE_TITLE` — Title for inline answer option. E.g. 'Get time until arrival'
